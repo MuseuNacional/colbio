@@ -20,7 +20,7 @@
 
   
 
--   Evitar tirar múltiplas fotos da mesma vista. Preferencialmente, apenas uma deve ser salva;
+-   Evitar tirar múltiplas fotos da mesma vista. Preferencialmente, apenas uma de cada vista deve ser salva;
     
 
   

@@ -1,10 +1,13 @@
 ```mermaid
 graph LR
 A[Captura da imagem] --> B(Exportar arquivo RAW)
-B --> C(Servidor)
-B --> D(Edição no Lightroom)
-D --> E(Exportar em JPEG)
-E --> C
+B --> C(Edição no Lightroom)
+C --> D(Exportar em JPEG)
+C --> E(Exportar em RAW)
+D --> F(Servidor)
+E --> F
+
 
 
 ```
+

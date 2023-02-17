@@ -1,5 +1,5 @@
 ```mermaid
-graph LR
+graph TD
 A[Captura da imagem] --> B(Exportar arquivo RAW)
 B --> C(Edição no Lightroom)
 B --> F

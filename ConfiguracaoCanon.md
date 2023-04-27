@@ -1,28 +1,28 @@
-## Configurações Câmera Canon
+## Configurações Câmera Canon (aplicável a todos os modelos)
 
 Sempre antes de cada sessão, verificar se as configurações da câmera são essas abaixo:
 
--Acerte a data, hora e fuso horário na câmera:
+1- Acerte a data, hora e fuso horário na câmera:
  - Clicar no botão do Menu;
  - Clicar na opção Data/Hora e colocar a data e horário corretos;
  
 
--Coloque as informações de copyright:
+2- Coloque as informações de copyright:
  - Usar o cursor para clicar em Informação de copyright;
  - Clicar em Introduzir nome do autor;
  - Escrever o nome do copyright (MNRJ);
 
 
--Coloque a qualidade da imagem: RAW
+3- Coloque a qualidade da imagem: RAW
 - Clicar em Qualidade;
 - Escolher RAW;
 
--Ajuste o controle de cor para neutro:
+4-Ajuste o controle de cor para neutro:
 -	Clicar em Estilo Imagem;
 -	Escolher a opção Neutro;
 
--Ajustar o “color space”:
+5-Ajustar o “color space”:
 -	Clicar em Espaço de cor;
 -	Escolher RGB adobe;
 
-Escolher o Modo M para captura de imagens.
+6-Escolher o Modo M para captura de imagens.
